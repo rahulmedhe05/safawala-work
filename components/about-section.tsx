@@ -64,16 +64,20 @@ export function AboutSection() {
           <div className="relative rounded-lg overflow-hidden shadow-2xl max-w-[320px] mx-auto md:mx-0">
             {!isVideoPlaying ? (
               <div className="relative group cursor-pointer" onClick={() => setIsVideoPlaying(true)}>
-                <video
-                  src="/main video.mp4"
-                  muted
-                  playsInline
-                  preload="metadata"
-                  className="w-full object-cover aspect-[9/16]"
-                />
+                <div className="w-full aspect-[9/16] bg-gradient-to-br from-primary/80 to-primary flex flex-col items-center justify-center text-white">
+                  <div className="text-center space-y-4 px-6">
+                    <img
+                      src="https://safawalajaipur.com/safawalalogo.png"
+                      alt="Safawala"
+                      className="h-16 mx-auto opacity-90"
+                    />
+                    <p className="text-lg font-bold">Safawala</p>
+                    <p className="text-sm opacity-90">Premium Wedding Turban Service</p>
+                  </div>
+                </div>
                 <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-all flex items-center justify-center">
-                  <div className="bg-primary rounded-full p-6 group-hover:scale-110 transition-transform">
-                    <Play className="w-8 h-8 text-primary-foreground fill-primary-foreground" />
+                  <div className="bg-accent rounded-full p-6 group-hover:scale-110 transition-transform">
+                    <Play className="w-8 h-8 text-accent-foreground fill-accent-foreground" />
                   </div>
                 </div>
               </div>

@@ -75,7 +75,7 @@ export function Navigation() {
             >
               Contact
             </button>
-            <Button className={`${isScrolled ? "bg-accent hover:bg-secondary" : "bg-primary hover:bg-accent"} text-primary-foreground`}>
+            <Button className={`${isScrolled ? "bg-accent hover:bg-secondary" : "bg-primary hover:bg-accent"} text-primary-foreground`} onClick={() => window.open('tel:+919725295692')}>
               <Phone className="w-4 h-4 mr-2" />
               Call Now
             </Button>
@@ -123,7 +123,7 @@ export function Navigation() {
               >
                 Contact
               </button>
-              <Button className={`${isScrolled ? "bg-accent hover:bg-secondary" : "bg-primary hover:bg-accent"} text-primary-foreground w-full`}>
+              <Button className={`${isScrolled ? "bg-accent hover:bg-secondary" : "bg-primary hover:bg-accent"} text-primary-foreground w-full`} onClick={() => window.open('tel:+919725295692')}>
                 <Phone className="w-4 h-4 mr-2" />
                 Call Now
               </Button>

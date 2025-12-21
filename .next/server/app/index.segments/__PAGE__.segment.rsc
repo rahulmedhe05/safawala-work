@@ -1,0 +1,12 @@
+1:"$Sreact.fragment"
+2:I[13474,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"Navigation"]
+3:I[4236,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"HeroSlider"]
+4:I[4008,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"AboutSection"]
+5:I[55944,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"ContactForm"]
+6:I[42121,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"GallerySection"]
+7:I[76841,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"Footer"]
+8:I[46993,["/_next/static/chunks/c3f31ae7688b1ab0.js","/_next/static/chunks/c60d8556880b4a05.js","/_next/static/chunks/1c58dfc63e0b6c70.js","/_next/static/chunks/1cf6b9339b3ffe7e.js"],"WhatsAppFloat"]
+9:I[89836,["/_next/static/chunks/1e086dccfb274931.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+0:{"buildId":"ziYQi_JPCyoO8r3Vyl9Pu","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/c60d8556880b4a05.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/1c58dfc63e0b6c70.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/1cf6b9339b3ffe7e.js","async":true}]],["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]]}],"loading":null,"isPartial":false}
+b:null
