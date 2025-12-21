@@ -61,13 +61,15 @@ export function AboutSection() {
 
         {/* Additional About Content */}
         <div className="mt-20 grid md:grid-cols-2 gap-12 items-center">
-          <div className="relative rounded-lg overflow-hidden shadow-2xl">
+          <div className="relative rounded-lg overflow-hidden shadow-2xl max-w-[320px] mx-auto md:mx-0">
             {!isVideoPlaying ? (
               <div className="relative group cursor-pointer" onClick={() => setIsVideoPlaying(true)}>
-                <img
-                  src="/video-thumb-1.jpg"
-                  alt="Main video thumbnail"
-                  className="w-full object-cover aspect-square"
+                <video
+                  src="/main video.mp4"
+                  muted
+                  playsInline
+                  preload="metadata"
+                  className="w-full object-cover aspect-[9/16]"
                 />
                 <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-all flex items-center justify-center">
                   <div className="bg-primary rounded-full p-6 group-hover:scale-110 transition-transform">
@@ -80,7 +82,8 @@ export function AboutSection() {
                 src="/main video.mp4"
                 autoPlay
                 controls
-                className="w-full aspect-square object-cover"
+                playsInline
+                className="w-full aspect-[9/16] object-contain bg-black"
                 onEnded={() => setIsVideoPlaying(false)}
               />
             )}
