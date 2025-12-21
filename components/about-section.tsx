@@ -44,32 +44,6 @@ export function AboutSection() {
           </p>
         </div>
 
-        {/* Video Section */}
-        <div className="relative w-full max-w-2xl mx-auto mb-20 rounded-lg overflow-hidden shadow-2xl">
-          {!isVideoPlaying ? (
-            <div className="relative group cursor-pointer" onClick={() => setIsVideoPlaying(true)}>
-              <img
-                src="/video-thumb-1.jpg"
-                alt="Main video thumbnail"
-                className="w-full object-cover aspect-video"
-              />
-              <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-all flex items-center justify-center">
-                <div className="bg-primary rounded-full p-6 group-hover:scale-110 transition-transform">
-                  <Play className="w-8 h-8 text-primary-foreground fill-primary-foreground" />
-                </div>
-              </div>
-            </div>
-          ) : (
-            <video
-              src="/main video.mp4"
-              autoPlay
-              controls
-              className="w-full aspect-video"
-              onEnded={() => setIsVideoPlaying(false)}
-            />
-          )}
-        </div>
-
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {features.map((feature, index) => (
             <div
@@ -87,12 +61,29 @@ export function AboutSection() {
 
         {/* Additional About Content */}
         <div className="mt-20 grid md:grid-cols-2 gap-12 items-center">
-          <div>
-            <img
-              src="/placeholder.svg?height=600&width=600"
-              alt="Our Craftsmanship"
-              className="rounded-lg shadow-2xl w-full object-cover aspect-square"
-            />
+          <div className="relative rounded-lg overflow-hidden shadow-2xl">
+            {!isVideoPlaying ? (
+              <div className="relative group cursor-pointer" onClick={() => setIsVideoPlaying(true)}>
+                <img
+                  src="/video-thumb-1.jpg"
+                  alt="Main video thumbnail"
+                  className="w-full object-cover aspect-square"
+                />
+                <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-all flex items-center justify-center">
+                  <div className="bg-primary rounded-full p-6 group-hover:scale-110 transition-transform">
+                    <Play className="w-8 h-8 text-primary-foreground fill-primary-foreground" />
+                  </div>
+                </div>
+              </div>
+            ) : (
+              <video
+                src="/main video.mp4"
+                autoPlay
+                controls
+                className="w-full aspect-square object-cover"
+                onEnded={() => setIsVideoPlaying(false)}
+              />
+            )}
           </div>
           <div className="space-y-6">
             <h3 className="text-3xl md:text-4xl font-bold text-foreground text-balance">Why Choose Safawala?</h3>
