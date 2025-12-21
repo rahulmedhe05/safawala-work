@@ -225,8 +225,8 @@ export function HeroSlider() {
         <ChevronRight className="w-5 h-5 md:w-6 md:h-6" />
       </button>
 
-      {/* Dots Indicator */}
-      <div className="absolute bottom-20 md:bottom-24 left-1/2 -translate-x-1/2 z-30 flex gap-2">
+      {/* Dots Indicator - Hidden on Mobile */}
+      <div className="hidden md:flex absolute bottom-20 md:bottom-24 left-1/2 -translate-x-1/2 z-30 gap-2">
         {slides.map((_, index) => (
           <button
             key={index}
