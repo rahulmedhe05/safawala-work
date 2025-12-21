@@ -60,7 +60,7 @@ export function AboutSection() {
         </div>
 
         {/* Additional About Content */}
-        <div className="mt-20 grid md:grid-cols-2 gap-12 items-center">
+        <div className="mt-20 grid md:grid-cols-2 gap-6 items-center">
           <div className="relative rounded-lg overflow-hidden shadow-2xl max-w-[320px] mx-auto md:mx-0">
             {!isVideoPlaying ? (
               <div className="relative group cursor-pointer" onClick={() => setIsVideoPlaying(true)}>
