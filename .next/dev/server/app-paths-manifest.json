@@ -1,4 +1,8 @@
 {
-  "/robots.txt/route": "app/robots.txt/route.js",
-  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/domains-dashboard/page": "app/domains-dashboard/page.js",
+  "/domains/safawaladelhi.com/page": "app/domains/safawaladelhi.com/page.js",
+  "/page": "app/page.js",
+  "/preview/[domain]/page": "app/preview/[domain]/page.js",
+  "/safa-in-mumbai/page": "app/safa-in-mumbai/page.js"
 }

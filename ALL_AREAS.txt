@@ -1,0 +1,871 @@
+# ALL AREA NAMES FOR 32 CITIES
+# =============================
+# Total Cities: 32
+# Total Areas: 656
+# Format: area-wedding-turban-safa-feta-pagdi-on-rent
+
+# ==========================================
+# 1. MUMBAI AREAS (25)
+# ==========================================
+andheri
+bandra
+borivali
+chembur
+dadar
+goregaon
+juhu
+kandivali
+kurla
+malad
+mulund
+powai
+thane
+worli
+santacruz
+vile-parle
+khar
+ghatkopar
+vikhroli
+andheri-east
+andheri-west
+bandra-east
+bandra-west
+lower-parel
+colaba
+
+# ==========================================
+# 2. NAVI MUMBAI AREAS (15)
+# ==========================================
+vashi
+nerul
+kharghar
+panvel
+belapur
+airoli
+kopar-khairane
+sanpada
+turbhe
+ghansoli
+seawoods
+ulwe
+kamothe
+taloja
+kalamboli
+
+# ==========================================
+# 3. DELHI AREAS (30)
+# ==========================================
+chandni-chowk
+connaught-place
+dwarka
+karol-bagh
+lajpat-nagar
+rohini
+south-delhi
+pitampura
+janakpuri
+rajouri-garden
+saket
+greater-kailash
+defence-colony
+vasant-kunj
+hauz-khas
+green-park
+malviya-nagar
+nehru-place
+preet-vihar
+shahdara
+uttam-nagar
+tilak-nagar
+paschim-vihar
+punjabi-bagh
+model-town
+civil-lines
+mayur-vihar
+east-of-kailash
+kalkaji
+safdarjung
+
+# ==========================================
+# 4. NOIDA AREAS (20)
+# ==========================================
+sector-18
+sector-62
+sector-63
+sector-15
+sector-16
+sector-50
+sector-104
+sector-137
+sector-76
+sector-78
+sector-93
+sector-100
+sector-120
+sector-121
+sector-122
+sector-128
+sector-135
+sector-142
+sector-143
+greater-noida
+
+# ==========================================
+# 5. GURGAON AREAS (20)
+# ==========================================
+mg-road
+dlf-phase-1
+dlf-phase-2
+dlf-phase-3
+dlf-phase-4
+dlf-phase-5
+sohna-road
+golf-course-road
+sector-14
+sector-15-gurgaon
+sector-17-gurgaon
+sector-29
+sector-43
+sector-44
+sector-45
+sector-49
+sector-56
+sector-57
+palam-vihar
+udyog-vihar
+
+# ==========================================
+# 6. SURAT AREAS (45)
+# ==========================================
+adajan
+althan
+amroli
+athwa
+bamroli
+bhatar
+bhestan
+bil
+canal-road
+chhani
+city-light
+dandia-bazaar
+dumas
+ghod-dod-road
+godadara
+hazira
+jahangirpura
+kadodara
+kamrej
+kapodra
+katargam
+kosad
+laxmipura
+limbayat
+magdalla
+majura-gate
+nanpura
+new-vip-road
+olpad
+pal
+palsana
+pandesara
+panigate
+piplod
+rander
+ring-road
+sachin
+salabatpura
+sarthana
+textile-market
+udhna
+utran
+varachha
+vesu
+vip-road
+
+# ==========================================
+# 7. VADODARA / BARODA AREAS (40)
+# ==========================================
+akota
+alkapuri
+atladara
+bajwa
+bhayli
+dabhoi
+diwalipura
+ellora-park
+fatehgunj
+gorwa
+gotri
+halol
+harni
+jetalpur
+kalali
+karelibaug
+karjan
+karodia
+makarpura
+maneja
+manjalpur
+mandvi
+nandesari
+nizampura
+old-padra-road
+padra
+parle-point
+pratapnagar
+productivity-road
+race-course
+raopura
+sama
+savli
+sayajigunj
+sevasi
+sindhrot
+subhanpura
+tandalja
+tarsali
+waghodia
+
+# ==========================================
+# 8. PUNE AREAS (40)
+# ==========================================
+akurdi
+aundh
+balewadi
+baner
+bavdhan
+bhosari
+bibwewadi
+camp
+chakan
+deccan
+dhanori
+erandwane
+fc-road
+hadapsar
+hinjewadi
+kalyani-nagar
+katraj
+kharadi
+kondhwa
+koregaon-park
+kothrud
+magarpatta
+manjri
+mundhwa
+nibm
+nigdi
+pashan
+paud-road
+pimple-saudagar
+pimpri-chinchwad
+pune-station
+ravet
+sadashiv-peth
+shivaji-nagar
+sinhagad-road
+swargate
+viman-nagar
+wagholi
+wakad
+yerwada
+
+# ==========================================
+# 9. NAGPUR AREAS (25)
+# ==========================================
+dharampeth
+sitabuldi
+sadar
+civil-lines-nagpur
+lakadganj
+ganeshpeth
+itwari
+mahal
+ramdaspeth
+pratap-nagar-nagpur
+manewada
+hingna
+wadi-nagpur
+nandanvan
+mankapur
+jaripatka
+wardhaman-nagar
+khamla
+byramji-town
+hanuman-nagar
+gokulpeth
+laxmi-nagar
+ajni
+sakkardara
+reshimbagh
+
+# ==========================================
+# 10. NASHIK AREAS (20)
+# ==========================================
+gangapur-road
+college-road
+panchavati
+nashik-road
+dwarka-nashik
+cidco
+satpur
+ambad
+indira-nagar-nashik
+pathardi-phata
+mhasrul
+deolali
+ashok-stambh
+sharanpur
+jail-road
+canada-corner
+shalimar
+mahatma-nagar
+govind-nagar
+tidke-colony
+
+# ==========================================
+# 11. RAJKOT AREAS (20)
+# ==========================================
+race-course-rajkot
+kalawad-road
+university-road
+yagnik-road
+150-feet-ring-road
+astron-chowk
+bhaktinagar
+jubilee-garden
+gondal-road
+kothariya-road
+mavdi
+pedak-road
+raiya-road
+sadhu-vaswani-road
+trikon-baug
+rajkot-junction
+aji-dam-garden
+sorathiyawadi
+nana-mava-road
+kalavad-road
+
+# ==========================================
+# 12. AHMEDABAD AREAS (30)
+# ==========================================
+cg-road
+ashram-road
+sg-highway
+prahlad-nagar
+satellite
+bodakdev
+vastrapur
+navrangpura
+ellis-bridge
+paldi
+maninagar
+ghatlodia
+thaltej
+chandkheda
+bopal
+science-city
+nikol
+naroda
+vastral
+odhav
+naranpura
+shahibaug
+usmanpura
+ambawadi
+sabarmati
+memnagar
+gurukul
+drive-in-road
+jodhpur-ahmedabad
+vejalpur
+
+# ==========================================
+# 13. INDORE AREAS (20)
+# ==========================================
+vijay-nagar
+palasia
+rajwada
+mg-road-indore
+sapna-sangeeta
+new-palasia
+ab-road
+rau
+mhow
+pithampur
+bhawarkua
+sarafa-bazaar
+bhanwar-kuwa
+sudama-nagar
+annapurna
+scheme-no-54
+scheme-no-78
+silicon-city
+nipania
+tilak-nagar-indore
+
+# ==========================================
+# 14. BHOPAL AREAS (20)
+# ==========================================
+mp-nagar
+arera-colony
+tt-nagar
+new-market
+kolar-road
+hoshangabad-road
+bairagarh
+habibganj
+misrod
+ayodhya-nagar
+shahpura
+bittan-market
+malviya-nagar-bhopal
+govindpura
+ashoka-garden
+trilanga
+danish-kunj
+katara-hills
+koh-e-fiza
+bag-mughaliya
+
+# ==========================================
+# 15. LUCKNOW AREAS (25)
+# ==========================================
+hazratganj
+gomti-nagar
+aliganj
+indira-nagar
+mahanagar
+aminabad
+charbagh
+alambagh
+rajajipuram
+vikas-nagar
+ashiyana
+jankipuram
+faizabad-road
+sitapur-road
+kanpur-road
+lda-colony
+sushant-golf-city
+vrindavan-yojna
+triveni-nagar
+husainabad
+chowk
+naka
+saadatganj
+kaiserbagh
+aashiana
+
+# ==========================================
+# 16. KANPUR AREAS (20)
+# ==========================================
+civil-lines-kanpur
+swaroop-nagar
+kakadeo
+kidwai-nagar
+harsh-nagar
+shastri-nagar-kanpur
+govind-nagar-kanpur
+arya-nagar
+kalyanpur
+panki
+nawabganj
+mall-road-kanpur
+meston-road
+collectorganj
+generalganj
+birhana-road
+the-mall
+tilak-nagar-kanpur
+yashoda-nagar
+azad-nagar
+
+# ==========================================
+# 17. AGRA AREAS (20)
+# ==========================================
+taj-ganj
+sadar-bazaar
+kamla-nagar
+shahganj
+dayalbagh
+sikandra
+fatehabad-road
+bye-pass-road
+rakabganj
+belanganj
+sanjay-place
+raja-ki-mandi
+idgah
+bodla
+khandari
+shastripuram
+nehru-nagar
+vaishali-nagar-agra
+crossing-republik
+trans-yamuna
+
+# ==========================================
+# 18. VARANASI AREAS (20)
+# ==========================================
+godowlia
+assi-ghat
+dashashwamedh
+lanka
+bhelupur
+shivpur
+pandeypur
+cantonment
+bhu
+sigra
+mahmoorganj
+kabir-chaura
+ramnagar
+sarnath
+maldahiya
+nadesar
+gurubagh
+durgakund
+ravindrapuri
+shivala
+
+# ==========================================
+# 19. AMRITSAR AREAS (15)
+# ==========================================
+hall-bazaar
+lawrence-road
+ranjit-avenue
+majitha-road
+mall-road-amritsar
+golden-temple
+white-avenue
+queen-road
+crystal-chowk
+green-avenue
+katra-jaimal-singh
+model-town-amritsar
+rani-ka-bagh
+sultanwind
+batala-road
+
+# ==========================================
+# 20. CHANDIGARH AREAS (20)
+# ==========================================
+sector-17-chandigarh
+sector-22
+sector-35
+sector-43-chandigarh
+sector-44-chandigarh
+sector-8
+sector-9
+sector-10
+sector-11
+sector-15-chandigarh
+sector-19
+sector-20
+sector-26
+sector-27
+sector-32
+sector-34
+manimajra
+panchkula
+mohali
+zirakpur
+
+# ==========================================
+# 21. JODHPUR AREAS (20)
+# ==========================================
+paota
+sardarpura
+ratanada
+shastri-nagar-jodhpur
+chopasni-road
+residency-road
+pal-road
+airport-road
+basni
+pali-road
+mandore
+kaylana
+pratap-nagar-jodhpur
+shyam-nagar
+nai-sarak
+sojati-gate
+jalori-gate
+ghantaghar
+tripolia-bazaar
+clock-tower
+
+# ==========================================
+# 22. JAIPUR AREAS (30)
+# ==========================================
+malviya-nagar-jaipur
+vaishali-nagar-jaipur
+mansarovar
+raja-park
+c-scheme
+mi-road
+tonk-road
+ajmer-road
+jhotwara
+sanganer
+sitapura
+sodala
+civil-lines-jaipur
+bani-park
+tilak-nagar-jaipur
+vidhyadhar-nagar
+murlipura
+jagatpura
+nirman-nagar
+shyam-nagar-jaipur
+bapu-nagar
+gopalpura
+durgapura
+pratap-nagar-jaipur
+lal-kothi
+adarsh-nagar
+hasanpura
+johari-bazaar
+tripolia-bazaar-jaipur
+hawa-mahal
+
+# ==========================================
+# 23. UDAIPUR AREAS (15)
+# ==========================================
+fateh-sagar
+sukhadia-circle
+hiran-magri
+pratap-nagar-udaipur
+chetak-circle
+saheli-marg
+ashok-nagar-udaipur
+madhuban
+sector-14-udaipur
+sector-11-udaipur
+shobhagpura
+bhuwana
+goverdhan-vilas
+ambamata
+bedla
+
+# ==========================================
+# 24. BIKANER AREAS (12)
+# ==========================================
+station-road
+rani-bazar
+kote-gate
+ganga-shahar-road
+pawan-puri
+jai-narayan-vyas-colony
+sagar-road
+karni-nagar
+lalgarh
+sujangarh
+nokha-road
+gangashahar
+
+# ==========================================
+# 25. JAISALMER AREAS (10)
+# ==========================================
+fort-area
+hanuman-circle
+gadisar-road
+sam-road
+bada-bagh
+amar-sagar
+patwon-ki-haveli
+gandhi-chowk
+jethwai-road
+barmer-road
+
+# ==========================================
+# 26. PUSHKAR AREAS (8)
+# ==========================================
+main-bazaar
+varaha-ghat
+brahma-temple
+pushkar-lake
+ajmer-road-pushkar
+ganahera
+budha-pushkar
+motisar
+
+# ==========================================
+# 27. MOUNT ABU AREAS (8)
+# ==========================================
+nakki-lake
+main-market
+dilwara-road
+sunset-point
+guru-shikhar
+polo-ground
+mall-road-mountabu
+achalgarh
+
+# ==========================================
+# 28. GWALIOR AREAS (15)
+# ==========================================
+city-center
+lashkar
+morar
+thatipur
+gola-ka-mandir
+jayendraganj
+bahodapur
+hazira-gwalior
+phool-bagh
+birla-nagar
+naya-bazar
+daulatganj
+maharaj-bada
+padav
+kampoo
+
+# ==========================================
+# 29. HYDERABAD AREAS (25)
+# ==========================================
+banjara-hills
+jubilee-hills
+madhapur
+hitech-city
+gachibowli
+kondapur
+kukatpally
+ameerpet
+begumpet
+secunderabad
+abids
+dilsukhnagar
+lb-nagar
+uppal
+miyapur
+manikonda
+kompally
+attapur
+shamshabad
+mehdipatnam
+tolichowki
+somajiguda
+panjagutta
+sr-nagar
+nampally
+
+# ==========================================
+# 30. BANGALORE AREAS (25)
+# ==========================================
+koramangala
+indiranagar
+jayanagar
+whitefield
+electronic-city
+marathahalli
+hsr-layout
+btm-layout
+mg-road-bangalore
+brigade-road
+church-street
+malleshwaram
+rajajinagar
+basavanagudi
+jp-nagar
+bannerghatta-road
+hebbal
+yelahanka
+kr-puram
+sarjapur-road
+bellandur
+domlur
+richmond-town
+frazer-town
+rt-nagar
+
+# ==========================================
+# 31. CHENNAI AREAS (20)
+# ==========================================
+t-nagar
+adyar
+velachery
+anna-nagar
+egmore
+nungambakkam
+mylapore
+besant-nagar
+guindy
+porur
+vadapalani
+ambattur
+chromepet
+tambaram
+sholinganallur
+omr
+ecr
+kilpauk
+kodambakkam
+ashok-nagar-chennai
+
+# ==========================================
+# 32. KOLKATA AREAS (20)
+# ==========================================
+park-street
+salt-lake
+new-town
+ballygunge
+gariahat
+south-city
+alipore
+behala
+howrah
+dumdum
+lake-town
+jadavpur
+garia
+barasat
+newmarket
+esplanade
+sealdah
+rajarhat
+bidhannagar
+tollygunge
+
+# ==========================================
+# SUMMARY
+# ==========================================
+# Total Cities: 32
+# Total Areas: 656
+#
+# City-wise count:
+# 1. Mumbai: 25
+# 2. Navi Mumbai: 15
+# 3. Delhi: 30
+# 4. Noida: 20
+# 5. Gurgaon: 20
+# 6. Surat: 45
+# 7. Vadodara: 40
+# 8. Pune: 40
+# 9. Nagpur: 25
+# 10. Nashik: 20
+# 11. Rajkot: 20
+# 12. Ahmedabad: 30
+# 13. Indore: 20
+# 14. Bhopal: 20
+# 15. Lucknow: 25
+# 16. Kanpur: 20
+# 17. Agra: 20
+# 18. Varanasi: 20
+# 19. Amritsar: 15
+# 20. Chandigarh: 20
+# 21. Jodhpur: 20
+# 22. Jaipur: 30
+# 23. Udaipur: 15
+# 24. Bikaner: 12
+# 25. Jaisalmer: 10
+# 26. Pushkar: 8
+# 27. Mount Abu: 8
+# 28. Gwalior: 15
+# 29. Hyderabad: 25
+# 30. Bangalore: 25
+# 31. Chennai: 20
+# 32. Kolkata: 20
