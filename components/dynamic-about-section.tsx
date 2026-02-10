@@ -71,7 +71,7 @@ export function DynamicAboutSection({ location, state, tagline }: DynamicAboutSe
                 <div className="w-full aspect-[9/16] bg-gradient-to-br from-primary/80 to-primary flex flex-col items-center justify-center text-white">
                   <div className="text-center space-y-4 px-6">
                     <img
-                      src="https://safawalamumbai.com/safawalalogo.png"
+                      src="/safawalalogo.png"
                       alt={`Safawala ${location}`}
                       className="h-16 mx-auto opacity-90"
                     />

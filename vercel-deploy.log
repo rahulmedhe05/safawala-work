@@ -1,0 +1,1206 @@
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Linked to safawale/bandhejsafa-com (created .vercel and added it to .gitignore)
+Retrieving project…
+> Downloading `development` Environment Variables for safawale/bandhejsafa-com
+Downloading
+Created .env.local file and added it to .gitignore [544ms]
+Deploying safawale/bandhejsafa-com
+Uploading [--------------------] (0.0B/16MB)
+Uploading [=====---------------] (4.0MB/16MB)
+Uploading [==========----------] (8.0MB/16MB)
+Uploading [===============-----] (12.0MB/16MB)
+Uploading [====================] (16.0MB/16MB)
+Inspect: https://vercel.com/safawale/bandhejsafa-com/Ac76RswfXhzRyZyJfaenH6gkgqkG [11s]
+Production: https://bandhejsafa-8orf1b26i-safawale.vercel.app [11s]
+https://bandhejsafa-8orf1b26i-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Downloading 267 deployment files...
+Building: Restored build cache from previous deployment (BjnAs9e4pQ8RwW5ws6wGE3rqDVyC)
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: up to date in 6s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 12.4s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/110) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (27/110)
+Building: Generating static pages using 1 worker (54/110)
+Building: Generating static pages using 1 worker (82/110)
+Building: ✓ Generating static pages using 1 worker (110/110) in 2.3s
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/bandhejsafa.com
+Building: ├ ○ /domains/bandhejsafa.com/barati-safa-on-rent-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/barati-safa-online-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/barati-safa-tying-for-international-wedding-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/buy-wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/custom-wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/custom-wedding-turban-for-overseas-weddings-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/customized-sehra-for-baraat-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/designer-wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/designer-wedding-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/destination-wedding-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/dulha-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/dulha-pagri-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/dulha-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/dulha-sehra-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/dulhe-ka-sehra-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/dulhe-ki-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/feta-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-feta-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-pagri-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-safa-bandhej-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-sehra-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/groom-turban-shop-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/gujarati-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/hand-tied-safa-rental-near-me-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/hand-tied-turban-for-international-wedding-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/heritage-feta-turban-hire-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/indian-dulha-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/jodhpuri-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/jodhpuri-pagri-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/jodhpuri-safa-design-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/jodhpuri-safa-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/jodhpuri-safa-for-wedding-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/jodhpuri-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/luxury-wedding-turban-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/luxury-wedding-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/maharaja-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/marathi-pheta-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/marriage-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/marwadi-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/mens-wedding-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagadi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagdi-bandhne-wala-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagdi-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagdi-for-marriage-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagdi-for-wedding-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/paghdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/pagri-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/premium-pagdi-with-kalgi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/premium-wedding-safa-for-international-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/professional-safa-tying-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/punjabi-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajasthani-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajasthani-wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajput-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajputi-safa-design-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajputi-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajwadi-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/rajwadi-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/ready-made-turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/royal-groom-turban-for-destination-wedding-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/royal-wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/royal-wedding-turban-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-design-for-barati-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-design-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-for-barati-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-for-men-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-garments-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-on-rent-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-on-rent-near-me-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-shop-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/safa-tying-service-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/sehra-dulha-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/sehra-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/sehra-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/sehra-rental-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/sehrabandi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/traditional-indian-wedding-turban-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/traditional-wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/turban-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/vadodara-groom-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-feta-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-pagdi-for-destination-wedding-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-pagdi-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-pagdi-shop-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-pagri-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-bandhej-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-draping-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-for-barati-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-for-rent-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-safa-on-rent-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-turban-draping-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-turban-for-barati-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-turban-for-groom-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-turban-for-groom-online-in-rajasthan
+Building: ├ ○ /domains/bandhejsafa.com/wedding-turban-in-rajasthan
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 85.812ms
+Building: Created all serverless functions in: 367.214ms
+Building: Collected static files (public/, static/, .next/static): 5.781ms
+Building: Build Completed in /vercel/output [26s]
+Building: Deploying outputs...
+[2K[1A[2K[GProduction: https://bandhejsafa-8orf1b26i-safawale.vercel.app [57s]
+Completing...
+Aliased: https://bandhejsafa-com.vercel.app [57s]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/baratisafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/baratisafa-com
+> Connected
+Deploying safawale/baratisafa-com
+Uploading [--------------------] (0.0B/76.8KB)
+Uploading [=====---------------] (21.8KB/76.8KB)
+Uploading [==========----------] (38.8KB/76.8KB)
+Uploading [================----] (61.7KB/76.8KB)
+Uploading [====================] (76.8KB/76.8KB)
+Inspect: https://vercel.com/safawale/baratisafa-com/EJuo1e2CqPgaEAQ5ubwBCxxWJ2PG [5s]
+Production: https://baratisafa-7y5yhqmtk-safawale.vercel.app [5s]
+https://baratisafa-7y5yhqmtk-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 34s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 6.8s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 696.6ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/baratisafa.com/barati-safa-colors
+Building: ├ ○ /domains/baratisafa.com/barati-safa-designs
+Building: ├ ○ /domains/baratisafa.com/barati-safa-for-barati
+Building: ├ ○ /domains/baratisafa.com/barati-safa-for-wedding
+Building: ├ ○ /domains/baratisafa.com/barati-safa-rental
+Building: ├ ○ /domains/baratisafa.com/barati-safa-tying-service
+Building: ├ ○ /domains/baratisafa.com/best-barati-safa
+Building: ├ ○ /domains/baratisafa.com/groom-barati-safa
+Building: ├ ○ /domains/baratisafa.com/premium-barati-safa
+Building: ├ ○ /domains/baratisafa.com/wedding-barati-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 35.24ms
+Building: Created all serverless functions in: 187.293ms
+Building: Collected static files (public/, static/, .next/static): 8.797ms
+Building: Build Completed in /vercel/output [44s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://baratisafa-7y5yhqmtk-safawale.vercel.app [1m]
+Completing...
+Aliased: https://baratisafa-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/baratsafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/baratsafa-com
+> Connected
+Deploying safawale/baratsafa-com
+Uploading [--------------------] (0.0B/76.8KB)
+Uploading [======--------------] (25.0KB/76.8KB)
+Uploading [==========----------] (39.7KB/76.8KB)
+Uploading [===============-----] (61.3KB/76.8KB)
+Uploading [====================] (76.8KB/76.8KB)
+Inspect: https://vercel.com/safawale/baratsafa-com/4sZFApQ2VYnnsBgKecGdeNZ8HhGG [5s]
+Production: https://baratsafa-pqrhzsswo-safawale.vercel.app [5s]
+https://baratsafa-pqrhzsswo-safawale.vercel.appBuilding...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 33s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 6.4s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 723.7ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/baratsafa.com/affordable-barat-safa
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-ahmedabad
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-delhi
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-goa
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-jaipur
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-mumbai
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-pune
+Building: ├ ○ /domains/baratsafa.com/barat-safa-in-udaipur
+Building: ├ ○ /domains/baratsafa.com/best-barat-safa
+Building: ├ ○ /domains/baratsafa.com/premium-barat-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 47.116ms
+Building: Created all serverless functions in: 177.942ms
+Building: Collected static files (public/, static/, .next/static): 6.384ms
+Building: Build Completed in /vercel/output [43s]
+Building: Deploying outputs...
+[2K[1A[2K[GProduction: https://baratsafa-pqrhzsswo-safawale.vercel.app [1m]
+Completing...
+Aliased: https://baratsafa-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/baratturban-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/baratturban-com
+> Connected
+Deploying safawale/baratturban-com
+Uploading [--------------------] (0.0B/77.8KB)
+Uploading [=====---------------] (22.0KB/77.8KB)
+Uploading [===========---------] (44.7KB/77.8KB)
+Uploading [================----] (63.3KB/77.8KB)
+Uploading [====================] (77.8KB/77.8KB)
+Inspect: https://vercel.com/safawale/baratturban-com/HtaZ3N74eqndd48VJ89wzDZB5qM8 [5s]
+Production: https://baratturban-3myws3nrw-safawale.vercel.app [5s]
+https://baratturban-3myws3nrw-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 32s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 7.1s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 722.8ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/baratturban.com/affordable-barat-turban
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-ahmedabad
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-delhi
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-goa
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-jaipur
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-mumbai
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-pune
+Building: ├ ○ /domains/baratturban.com/barat-turban-in-udaipur
+Building: ├ ○ /domains/baratturban.com/best-barat-turban
+Building: ├ ○ /domains/baratturban.com/premium-barat-turban
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 69.34ms
+Building: Created all serverless functions in: 151.871ms
+Building: Collected static files (public/, static/, .next/static): 7.382ms
+Building: Build Completed in /vercel/output [43s]
+Building: Deploying outputs...
+[2K[1A[2K[GProduction: https://baratturban-3myws3nrw-safawale.vercel.app [1m]
+Completing...
+Aliased: https://baratturban-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/barodasafawala-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/barodasafawala-com
+> Connected
+Deploying safawale/barodasafawala-com
+Uploading [--------------------] (0.0B/1.1MB)
+Uploading [=====---------------] (275.3KB/1.1MB)
+Uploading [==========----------] (550.4KB/1.1MB)
+Uploading [===============-----] (821.2KB/1.1MB)
+Uploading [====================] (1.1MB/1.1MB)
+Inspect: https://vercel.com/safawale/barodasafawala-com/Hs34eE6Nzf75PM44xBzoS38wbboB [7s]
+Production: https://barodasafawala-d8ta5nqlq-safawale.vercel.app [7s]
+https://barodasafawala-d8ta5nqlq-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 307 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 37s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 14.5s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Error: request to https://api.vercel.com/v13/deployments/dpl_Hs34eE6Nzf75PM44xBzoS38wbboB?teamId=team_s53lGQPyVs5XuG27TRI55HEK failed, reason: read EADDRNOTAVAIL
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Error: An unexpected error occurred in deploy: FetchError: request to https://api.vercel.com/v2/user failed, reason: getaddrinfo ENOTFOUND api.vercel.com
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Error: An unexpected error occurred in deploy: FetchError: request to https://api.vercel.com/v1/teams failed, reason: getaddrinfo ENOTFOUND api.vercel.com
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Error: An unexpected error occurred in deploy: FetchError: request to https://api.vercel.com/v2/user failed, reason: getaddrinfo ENOTFOUND api.vercel.com
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/bollywoodsafawala-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/bollywoodsafawala-com
+> Connected
+Deploying safawale/bollywoodsafawala-com
+Uploading [--------------------] (0.0B/772.9KB)
+Uploading [=====---------------] (195.3KB/772.9KB)
+Uploading [==========----------] (393.4KB/772.9KB)
+Uploading [===============-----] (583.0KB/772.9KB)
+Uploading [====================] (772.9KB/772.9KB)
+Inspect: https://vercel.com/safawale/bollywoodsafawala-com/4dcuhQra1eYaqPJKhvcS8vGcp5cg [14s]
+Production: https://bollywoodsafawala-m60srsbaz-safawale.vercel.app [14s]
+https://bollywoodsafawala-m60srsbaz-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 267 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 32s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 12.4s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/110) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (27/110)
+Building: Generating static pages using 1 worker (54/110)
+Building: Generating static pages using 1 worker (82/110)
+Building: ✓ Generating static pages using 1 worker (110/110) in 2.3s
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/bollywoodsafawala.com
+Building: ├ ○ /domains/bollywoodsafawala.com/barati-safa-on-rent-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/barati-safa-online-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/barati-safa-tying-for-international-wedding-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/buy-wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/custom-wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/custom-wedding-turban-for-overseas-weddings-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/customized-sehra-for-baraat-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/designer-wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/designer-wedding-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/destination-wedding-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/dulha-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/dulha-pagri-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/dulha-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/dulha-sehra-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/dulhe-ka-sehra-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/dulhe-ki-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/feta-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-feta-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-pagri-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-safa-bandhej-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-sehra-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/groom-turban-shop-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/gujarati-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/hand-tied-safa-rental-near-me-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/hand-tied-turban-for-international-wedding-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/heritage-feta-turban-hire-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/indian-dulha-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/jodhpuri-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/jodhpuri-pagri-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/jodhpuri-safa-design-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/jodhpuri-safa-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/jodhpuri-safa-for-wedding-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/jodhpuri-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/luxury-wedding-turban-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/luxury-wedding-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/maharaja-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/marathi-pheta-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/marriage-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/marwadi-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/mens-wedding-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagadi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagdi-bandhne-wala-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagdi-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagdi-for-marriage-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagdi-for-wedding-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/paghdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/pagri-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/premium-pagdi-with-kalgi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/premium-wedding-safa-for-international-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/professional-safa-tying-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/punjabi-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajasthani-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajasthani-wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajput-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajputi-safa-design-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajputi-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajwadi-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/rajwadi-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/ready-made-turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/royal-groom-turban-for-destination-wedding-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/royal-wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/royal-wedding-turban-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-design-for-barati-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-design-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-for-barati-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-for-men-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-garments-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-on-rent-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-on-rent-near-me-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-shop-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/safa-tying-service-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/sehra-dulha-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/sehra-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/sehra-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/sehra-rental-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/sehrabandi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/traditional-indian-wedding-turban-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/traditional-wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/turban-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/vadodara-groom-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-feta-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-pagdi-for-destination-wedding-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-pagdi-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-pagdi-shop-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-pagri-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-bandhej-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-draping-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-for-barati-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-for-rent-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-safa-on-rent-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-turban-draping-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-turban-for-barati-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-turban-for-groom-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-turban-for-groom-online-in-india
+Building: ├ ○ /domains/bollywoodsafawala.com/wedding-turban-in-india
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 38.277ms
+Building: Created all serverless functions in: 372.469ms
+Building: Collected static files (public/, static/, .next/static): 6.209ms
+Building: Build Completed in /vercel/output [52s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://bollywoodsafawala-m60srsbaz-safawale.vercel.app [2m]
+Completing...
+Aliased: https://bollywoodsafawala-com.vercel.app [2m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/bulksafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/bulksafa-com
+> Connected
+Deploying safawale/bulksafa-com
+Uploading [--------------------] (0.0B/76.2KB)
+Uploading [=====---------------] (21.5KB/76.2KB)
+Uploading [==========----------] (38.5KB/76.2KB)
+Uploading [===============-----] (60.7KB/76.2KB)
+Uploading [====================] (76.2KB/76.2KB)
+Inspect: https://vercel.com/safawale/bulksafa-com/4PnYeFqUjmEwb5tUuD3CT62iQxjp [6s]
+Production: https://bulksafa-pkd8iqc2v-safawale.vercel.app [6s]
+https://bulksafa-pkd8iqc2v-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 31s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 6.4s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 739.7ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/bulksafa.com/affordable-bulk-safa
+Building: ├ ○ /domains/bulksafa.com/best-bulk-safa
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-ahmedabad
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-delhi
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-goa
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-jaipur
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-mumbai
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-pune
+Building: ├ ○ /domains/bulksafa.com/bulk-safa-in-udaipur
+Building: ├ ○ /domains/bulksafa.com/premium-bulk-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 35.827ms
+Building: Created all serverless functions in: 165.006ms
+Building: Collected static files (public/, static/, .next/static): 12.518ms
+Building: Build Completed in /vercel/output [41s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://bulksafa-pkd8iqc2v-safawale.vercel.app [1m]
+Completing...
+Aliased: https://bulksafa-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/corporateturban-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/corporateturban-com
+> Connected
+Deploying safawale/corporateturban-com
+Uploading [--------------------] (0.0B/77.5KB)
+Uploading [======--------------] (23.3KB/77.5KB)
+Uploading [==========----------] (41.1KB/77.5KB)
+Uploading [================----] (63.0KB/77.5KB)
+Uploading [====================] (77.5KB/77.5KB)
+Inspect: https://vercel.com/safawale/corporateturban-com/DmUHYEwbHW45RZnaKojVDp694Dg2 [6s]
+Production: https://corporateturban-9akp6m1ld-safawale.vercel.app [6s]
+https://corporateturban-9akp6m1ld-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 32s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 6.7s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 757.7ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/corporateturban.com/affordable-corporate-turban
+Building: ├ ○ /domains/corporateturban.com/best-corporate-turban
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-ahmedabad
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-delhi
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-goa
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-jaipur
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-mumbai
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-pune
+Building: ├ ○ /domains/corporateturban.com/corporate-turban-in-udaipur
+Building: ├ ○ /domains/corporateturban.com/premium-corporate-turban
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 35.935ms
+Building: Created all serverless functions in: 209.703ms
+Building: Collected static files (public/, static/, .next/static): 7.981ms
+Building: Build Completed in /vercel/output [42s]
+Building: Deploying outputs...
+[2K[1A[2K[GProduction: https://corporateturban-9akp6m1ld-safawale.vercel.app [1m]
+Completing...
+Aliased: https://corporateturban-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/designersafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/designersafa-com
+> Connected
+Deploying safawale/designersafa-com
+Uploading [--------------------] (0.0B/62.4KB)
+Uploading [=====---------------] (18.2KB/62.4KB)
+Uploading [==========----------] (32.7KB/62.4KB)
+Uploading [===============-----] (47.9KB/62.4KB)
+Uploading [====================] (62.4KB/62.4KB)
+Inspect: https://vercel.com/safawale/designersafa-com/FYmjuw5hqwhkDBisHDf3zwP6LcZP [6s]
+Production: https://designersafa-51uovng15-safawale.vercel.app [6s]
+https://designersafa-51uovng15-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 170 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 33s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 7.0s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/13) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/13)
+Building: Generating static pages using 1 worker (6/13)
+Building: Generating static pages using 1 worker (9/13)
+Building: ✓ Generating static pages using 1 worker (13/13) in 708.4ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/designersafa.com/designer-safa-collection
+Building: ├ ○ /domains/designersafa.com/designer-safa-designs
+Building: ├ ○ /domains/designersafa.com/designer-safa-in-delhi
+Building: ├ ○ /domains/designersafa.com/designer-safa-in-jaipur
+Building: ├ ○ /domains/designersafa.com/designer-safa-in-mumbai
+Building: ├ ○ /domains/designersafa.com/groom-designer-safa
+Building: ├ ○ /domains/designersafa.com/premium-designer-safa
+Building: ├ ○ /domains/designersafa.com/wedding-designer-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 41.98ms
+Building: Created all serverless functions in: 205.459ms
+Building: Collected static files (public/, static/, .next/static): 11.166ms
+Building: Build Completed in /vercel/output [43s]
+Building: Deploying outputs...
+Building: Deployment completed
+[2K[1A[2K[GProduction: https://designersafa-51uovng15-safawale.vercel.app [1m]
+Completing...
+Aliased: https://designersafa-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/destinationweddingsafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/destinationweddingsafa-com
+> Connected
+Deploying safawale/destinationweddingsafa-com
+Uploading [--------------------] (0.0B/78KB)
+Uploading [======--------------] (26.5KB/78KB)
+Uploading [==========----------] (41.1KB/78KB)
+Uploading [================----] (63.2KB/78KB)
+Uploading [====================] (78.0KB/78KB)
+Inspect: https://vercel.com/safawale/destinationweddingsafa-com/ChXugzpuFfJTGohVaG27gd547e99 [6s]
+Production: https://destinationweddingsafa-nszd9h616-safawale.vercel.app [6s]
+https://destinationweddingsafa-nszd9h616-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 29s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 7.1s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 758.4ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/destinationweddingsafa.com/affordable-destination-wedding-safa
+Building: ├ ○ /domains/destinationweddingsafa.com/best-destination-wedding-safa
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-ahmedabad
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-delhi
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-goa
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-jaipur
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-mumbai
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-pune
+Building: ├ ○ /domains/destinationweddingsafa.com/destination-wedding-safa-in-udaipur
+Building: ├ ○ /domains/destinationweddingsafa.com/premium-destination-wedding-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 65.972ms
+Building: Created all serverless functions in: 156.475ms
+Building: Collected static files (public/, static/, .next/static): 6.373ms
+Building: Build Completed in /vercel/output [40s]
+Building: Deploying outputs...
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/dulhasafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/dulhasafa-com
+> Connected
+Deploying safawale/dulhasafa-com
+Uploading [--------------------] (0.0B/76.8KB)
+Uploading [=====---------------] (21.7KB/76.8KB)
+Uploading [==========----------] (38.9KB/76.8KB)
+Uploading [===============-----] (60.6KB/76.8KB)
+Uploading [====================] (76.8KB/76.8KB)
+Inspect: https://vercel.com/safawale/dulhasafa-com/GDiCRhA6uvGW8mBSfQh6sPUyZL4U [8s]
+Production: https://dulhasafa-8738dnxw7-safawale.vercel.app [8s]
+https://dulhasafa-8738dnxw7-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 29s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 6.9s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 775.1ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/dulhasafa.com/best-dulha-safa
+Building: ├ ○ /domains/dulhasafa.com/dulha-safa-colors
+Building: ├ ○ /domains/dulhasafa.com/dulha-safa-designs
+Building: ├ ○ /domains/dulhasafa.com/dulha-safa-for-barati
+Building: ├ ○ /domains/dulhasafa.com/dulha-safa-for-wedding
+Building: ├ ○ /domains/dulhasafa.com/dulha-safa-rental
+Building: ├ ○ /domains/dulhasafa.com/dulha-safa-tying-service
+Building: ├ ○ /domains/dulhasafa.com/groom-dulha-safa
+Building: ├ ○ /domains/dulhasafa.com/premium-dulha-safa
+Building: ├ ○ /domains/dulhasafa.com/wedding-dulha-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 35.933ms
+Building: Created all serverless functions in: 162.596ms
+Building: Collected static files (public/, static/, .next/static): 9.318ms
+Building: Build Completed in /vercel/output [39s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://dulhasafa-8738dnxw7-safawale.vercel.app [1m]
+Completing...
+Aliased: https://dulhasafa-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/eventturban-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/eventturban-com
+> Connected
+Deploying safawale/eventturban-com
+Uploading [--------------------] (0.0B/77.4KB)
+Uploading [=====---------------] (21.9KB/77.4KB)
+Uploading [===========---------] (43.8KB/77.4KB)
+Uploading [================----] (62.3KB/77.4KB)
+Uploading [====================] (77.4KB/77.4KB)
+Inspect: https://vercel.com/safawale/eventturban-com/2vnQ7dNt7r3Eu4iejMnbNdBrjKWQ [6s]
+Production: https://eventturban-tn2qkc6mm-safawale.vercel.app [6s]
+https://eventturban-tn2qkc6mm-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 31s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 7.1s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 723.3ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/eventturban.com/affordable-event-turban
+Building: ├ ○ /domains/eventturban.com/best-event-turban
+Building: ├ ○ /domains/eventturban.com/event-turban-in-ahmedabad
+Building: ├ ○ /domains/eventturban.com/event-turban-in-delhi
+Building: ├ ○ /domains/eventturban.com/event-turban-in-goa
+Building: ├ ○ /domains/eventturban.com/event-turban-in-jaipur
+Building: ├ ○ /domains/eventturban.com/event-turban-in-mumbai
+Building: ├ ○ /domains/eventturban.com/event-turban-in-pune
+Building: ├ ○ /domains/eventturban.com/event-turban-in-udaipur
+Building: ├ ○ /domains/eventturban.com/premium-event-turban
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 70.142ms
+Building: Created all serverless functions in: 162.359ms
+Building: Collected static files (public/, static/, .next/static): 8.413ms
+Building: Build Completed in /vercel/output [42s]
+Building: Deploying outputs...
+Building: Deployment completed
+Building: Creating build cache...
+[2K[1A[2K[GProduction: https://eventturban-tn2qkc6mm-safawale.vercel.app [1m]
+Completing...
+Aliased: https://eventturban-com.vercel.app [1m]
+Vercel CLI 50.13.2
+The "--name" option is deprecated (https://vercel.link/name-flag)
+Loading scopes…
+Searching for existing projects…
+Local settings detected in vercel.json:
+- Build Command: next build
+- Framework: nextjs
+- Output Directory: .next
+Merging default Project Settings for Next.js. Previously listed overrides are prioritized.
+> Auto-detected Project Settings for Next.js
+
+Linked to safawale/festivalsafa-com (created .vercel and added it to .gitignore)
+> Connecting GitHub repository: https://github.com/mysafawale-ai/festivalsafa-com
+> Connected
+Deploying safawale/festivalsafa-com
+Uploading [--------------------] (0.0B/76.6KB)
+Uploading [=====---------------] (22.3KB/76.6KB)
+Uploading [===========---------] (45.0KB/76.6KB)
+Uploading [================----] (62.0KB/76.6KB)
+Uploading [====================] (76.6KB/76.6KB)
+Inspect: https://vercel.com/safawale/festivalsafa-com/Ck9DcFvK373ezxyFFrmgMW7xkfti [6s]
+Production: https://festivalsafa-r1pxaqjma-safawale.vercel.app [6s]
+https://festivalsafa-r1pxaqjma-safawale.vercel.appBuilding...
+Building...
+Building: Running build in Washington, D.C., USA (East) – iad1
+Building: Build machine configuration: 2 cores, 8 GB
+Building: Retrieving list of deployment files...
+Building: Previous build caches not available.
+Building: Downloading 172 deployment files...
+Building: Running "vercel build"
+Building: Vercel CLI 50.13.2
+Building: Installing dependencies...
+Building: added 185 packages in 28s
+Building: 22 packages are looking for funding
+Building: run `npm fund` for details
+Building: Detected Next.js version: 16.0.10
+Building: Running "next build"
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Attention: Next.js now collects completely anonymous telemetry regarding usage.
+Building: This information is used to shape Next.js' roadmap and prioritize features.
+Building: You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+Building: https://nextjs.org/telemetry
+Building: ▲ Next.js 16.0.10 (Turbopack)
+Building: Creating an optimized production build ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: ✓ Compiled successfully in 6.9s
+Building: Skipping validation of types
+Building: Collecting page data using 1 worker ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (0/15) ...
+Building: [baseline-browser-mapping] The data in this module is over two months old.  To ensure accurate Baseline data, please update: `npm i baseline-browser-mapping@latest -D`
+Building: Generating static pages using 1 worker (3/15)
+Building: Generating static pages using 1 worker (7/15)
+Building: Generating static pages using 1 worker (11/15)
+Building: ✓ Generating static pages using 1 worker (15/15) in 751.0ms
+Building: Finalizing page optimization ...
+Building: Route (app)
+Building: ┌ ○ /
+Building: ├ ○ /_not-found
+Building: ├ ○ /domains/festivalsafa.com/affordable-festival-safa
+Building: ├ ○ /domains/festivalsafa.com/best-festival-safa
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-ahmedabad
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-delhi
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-goa
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-jaipur
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-mumbai
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-pune
+Building: ├ ○ /domains/festivalsafa.com/festival-safa-in-udaipur
+Building: ├ ○ /domains/festivalsafa.com/premium-festival-safa
+Building: ├ ○ /robots.txt
+Building: └ ○ /sitemap.xml
+Building: ○  (Static)  prerendered as static content
+Building: Traced Next.js server files in: 38.365ms
+Building: Created all serverless functions in: 233.008ms
+Building: Collected static files (public/, static/, .next/static): 7.415ms
+Building: Build Completed in /vercel/output [39s]
+Building: Deploying outputs...

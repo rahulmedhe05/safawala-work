@@ -66,9 +66,9 @@ export function DynamicFooter({ location, state, domain, type = "city", areas }:
   const email = domain ? `info@${domain}` : `info@safawala${location.toLowerCase().replace(/\s+/g, '')}.com`
   const [expandedCategory, setExpandedCategory] = useState<string | null>(null)
   
-  // Base URL for links - use local path on localhost, full domain in production
-  const isLocal = typeof window !== 'undefined' && window.location.hostname === 'localhost'
-  const baseUrl = isLocal ? `/domains/${domain}` : (domain ? `https://${domain}` : '')
+  // Base URL for links - use relative paths for standalone deployments
+  // This works for both local dev and production on the actual domain
+  const baseUrl = ''
   
   // Get all pages for this domain from the data file
   const allPages = domain ? (DOMAIN_PAGES[domain] || []) : []
