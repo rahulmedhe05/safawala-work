@@ -28,9 +28,15 @@ export const metadata: Metadata = {
   creator: "Safawala Mumbai Wedding Turbans",
   publisher: "Safawala Mumbai Wedding Turbans",
   icons: {
-    icon: "/image.png",
-    shortcut: "/image.png",
-    apple: "/image.png",
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/icon-192x192.png", sizes: "192x192", type: "image/png" },
+      { url: "/icon-512x512.png", sizes: "512x512", type: "image/png" },
+    ],
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
   },
   formatDetection: {
     email: true,
@@ -106,9 +112,11 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${playfairDisplay.variable} ${inter.variable}`}>
       <head>
-        <link rel="icon" href="/image.png?v=1" type="image/png" />
-        <link rel="shortcut icon" href="/image.png?v=1" type="image/png" />
-        <link rel="apple-touch-icon" href="/image.png?v=1" />
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+        <link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
         <meta name="theme-color" content="#8b1a1a" />
         
         {/* Google Search Console & Analytics */}
